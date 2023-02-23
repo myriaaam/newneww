@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dae422e.css",
+    "main.js": "/static/js/main.8e5fe9b4.js",
+    "static/js/787.2bdceef2.chunk.js": "/static/js/787.2bdceef2.chunk.js",
+    "static/media/bi.jpg": "/static/media/bi.862f08d626aecd54140f.jpg",
+    "static/media/biooo.jpg": "/static/media/biooo.d7d15d5b6a9612a6832b.jpg",
+    "static/media/bibi.jpg": "/static/media/bibi.2b10cadf855de83cfffc.jpg",
+    "static/media/bb.jpg": "/static/media/bb.dcd63b88dfef3161ecec.jpg",
+    "static/media/water.jpg": "/static/media/water.13def95f388488f719aa.jpg",
+    "static/media/bio.jpg": "/static/media/bio.fde93237c3e3f1dcd33c.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.0dae422e.css.map": "/static/css/main.0dae422e.css.map",
+    "main.8e5fe9b4.js.map": "/static/js/main.8e5fe9b4.js.map",
+    "787.2bdceef2.chunk.js.map": "/static/js/787.2bdceef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dae422e.css",
+    "static/js/main.8e5fe9b4.js"
+  ]
+}
